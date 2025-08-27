@@ -1,0 +1,7 @@
+# Windows PC Requirements
+# Install with: pip install -r requirements_pc.txt
+
+#tkinter
+flask==2.3.3
+requests==2.31.0
+pillow==10.0.1
